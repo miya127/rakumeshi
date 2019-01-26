@@ -1,0 +1,228 @@
+
+.page-header {
+margin-top: 0;
+}
+nav {
+margin-top: 0;
+}
+.picture {
+    border-radius: 50px;
+    border-image: border-radius: 50px;
+    border-image: border-radius: 50px;
+}
+          
+.sample1 {
+	width:			100px;
+	height:			100px;
+	overflow:		hidden;
+	/*margin:			10px 8px 10px 16px;*/
+	position:		relative;	/* 相対位置指定 */
+}
+.sample1 .caption {
+	font-size:		70%;
+	text-align: 		center;
+	padding-top:		45px;
+	color:			#fff;
+}
+.sample1 .mask {
+	width:			100%;
+	height:			100%;
+	position:		absolute;	/* 絶対位置指定 */
+	top:			0;
+	left:			0;
+	opacity:		0;	/* マスクを表示しない */
+	background-color:	rgba(0,0,0,0.4);	/* マスクは半透明 */
+	-webkit-transition:	all 0.2s ease;
+	transition:		all 0.2s ease;
+	border-radius: 50px;
+    border-image: border-radius: 50px;
+    border-image: border-radius: 50px;
+}
+.sample1 .mask {
+	opacity:		1;	/* マスクを表示する */
+}
+
+.img_upload{
+   border: 4px dashed #b9b9b9;
+   background-color:white;
+}
+//form p{
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  line-height: 170px;
+  color: #000000;
+  font-family: Arial;
+}
+.input_img{
+  position: absolute;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  outline: none;
+  opacity: 0;
+  
+}
+
+
+
+             .form-center{
+                 margin:auto;
+             }
+          
+
+.form-control-small{
+   
+   
+    text-align:right;
+    width:50%;
+    height: calc(2rem + 2px);
+    padding: .375rem .75rem;
+    line-height: 1.5;
+    color: #495057;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: .25rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+    margin-bottom:0.5rem;
+    
+}
+.float{
+    float:left;
+}
+
+          
+
+
+.img_upload{
+   border: 4px dashed #b9b9b9;
+   background-color:white;
+}
+//form p{
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  line-height: 170px;
+  color: #000000;
+  font-family: Arial;
+}
+.input_img{
+  position: absolute;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  outline: none;
+  opacity: 0;
+  
+}
+
+
+
+             .form-center{
+                 margin:auto;
+             }
+          
+
+.form-control-small{
+   
+   
+    text-align:right;
+    width:50%;
+    height: calc(2rem + 2px);
+    padding: .375rem .75rem;
+    line-height: 1.5;
+    color: #495057;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: .25rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+    margin-bottom:0.5rem;
+    
+}
+.float{
+    float:left;
+}
+           .prof {
+    border-radius: 50px;
+    border-image: border-radius: 50px;
+    border-image: border-radius: 50px;
+    border: 1px solid #bfbfbf ;
+}
+
+             .form-center{
+                 margin:auto;
+             }
+             
+             a{
+                 overflow:hidden;
+                 position: relative;
+                 text-decoration:none;
+                 color:black;
+             }
+             a:hover{
+                 text-decoration:none;
+                 color:black;
+             }
+             
+ .prof {
+    border-radius: 50px;
+    border-image: border-radius: 50px;
+    border-image: border-radius: 50px;
+    border: 1px solid #bfbfbf ;
+}         
+
+
+.img_upload{
+   border: 4px dashed #b9b9b9;
+   background-color:white;
+}
+//form p{
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  line-height: 170px;
+  color: #000000;
+  font-family: Arial;
+}
+.input_img{
+  position: absolute;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  outline: none;
+  opacity: 0;
+  
+}
+
+
+
+             .form-center{
+                 margin:auto;
+             }
+          
+
+.form-control-small{
+   
+   
+    text-align:right;
+    width:50%;
+    height: calc(2rem + 2px);
+    padding: .375rem .75rem;
+    line-height: 1.5;
+    color: #495057;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: .25rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+    margin-bottom:0.5rem;
+    
+}
+.float{
+    float:left;
+}

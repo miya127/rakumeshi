@@ -1,0 +1,18 @@
+.btn_save{
+    position: absolute;
+	right: 0;
+	bottom: 0;
+	width: 50px;
+	height: 50px;
+	cursor: pointer;
+    background: #fff url(save.png) no-repeat center center;
+	background-size: 25px 25px;
+	border-radius: 25px;
+    transition: all 0.2s linear;
+	-webkit-tap-highlight-color:rgba(0,0,0,0);
+}
+.btn_save.on {
+	background-color: #fff;
+	animation: anime_01 0.2s;
+	
+}
